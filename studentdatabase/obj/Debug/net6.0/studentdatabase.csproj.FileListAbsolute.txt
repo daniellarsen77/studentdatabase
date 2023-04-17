@@ -1,0 +1,15 @@
+C:\Users\bowha\source\repos\studentdatabase\studentdatabase\bin\Debug\net6.0\studentdatabase.exe
+C:\Users\bowha\source\repos\studentdatabase\studentdatabase\bin\Debug\net6.0\studentdatabase.deps.json
+C:\Users\bowha\source\repos\studentdatabase\studentdatabase\bin\Debug\net6.0\studentdatabase.runtimeconfig.json
+C:\Users\bowha\source\repos\studentdatabase\studentdatabase\bin\Debug\net6.0\studentdatabase.dll
+C:\Users\bowha\source\repos\studentdatabase\studentdatabase\bin\Debug\net6.0\studentdatabase.pdb
+C:\Users\bowha\source\repos\studentdatabase\studentdatabase\obj\Debug\net6.0\studentdatabase.csproj.AssemblyReference.cache
+C:\Users\bowha\source\repos\studentdatabase\studentdatabase\obj\Debug\net6.0\studentdatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bowha\source\repos\studentdatabase\studentdatabase\obj\Debug\net6.0\studentdatabase.AssemblyInfoInputs.cache
+C:\Users\bowha\source\repos\studentdatabase\studentdatabase\obj\Debug\net6.0\studentdatabase.AssemblyInfo.cs
+C:\Users\bowha\source\repos\studentdatabase\studentdatabase\obj\Debug\net6.0\studentdatabase.csproj.CoreCompileInputs.cache
+C:\Users\bowha\source\repos\studentdatabase\studentdatabase\obj\Debug\net6.0\studentdatabase.dll
+C:\Users\bowha\source\repos\studentdatabase\studentdatabase\obj\Debug\net6.0\refint\studentdatabase.dll
+C:\Users\bowha\source\repos\studentdatabase\studentdatabase\obj\Debug\net6.0\studentdatabase.pdb
+C:\Users\bowha\source\repos\studentdatabase\studentdatabase\obj\Debug\net6.0\studentdatabase.genruntimeconfig.cache
+C:\Users\bowha\source\repos\studentdatabase\studentdatabase\obj\Debug\net6.0\ref\studentdatabase.dll
